@@ -87,4 +87,22 @@
 
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Minimum refresh rate</string>
+
+    <!-- Rom version -->
+    <string name="rom_version_title">Xtended Version</string>
+
+    <!-- Dev Info -->
+    <string name="xtended_about_nfo">About Xtended</string>
+    <string name="devs_header">Core Dev Team</string>
+    <string name="xtended_web">Official Website</string>
+    <string name="xtended_web_summary">Visit for more details</string>
+    <string name="xtended_telegram">Official Telegram Support Group</string>
+    <string name="xtended_telegram_summary">Join Here for Instant Support</string>
+    <string name="dev_1">Mady51</string>
+    <string name="dev_2">SuperDroidBond</string>
+    <string name="dev_3">Mukesh Singh</string>
+    <string name="dev_4">uLtRaNoOb</string>
+    <string name="dev_5">Roger Truttmann</string>
+    <string name="dev_6">xawlw</string>
+    <string name="dev_7">Sonal Singh</string>
 </resources>
